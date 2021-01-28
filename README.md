@@ -1,6 +1,10 @@
-[![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&theme=onedark)](#)
+[![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&theme=maroongold)](#)
+
 ## --------------------------------------------------------------------------------------------------------
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=onedark)
+
+## --------------------------------------------------------------------------------------------------------
 
 ![Golang](https://img.shields.io/badge/-Golang-black?logo=go&style=for-the-badge)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge)&nbsp;&nbsp;
