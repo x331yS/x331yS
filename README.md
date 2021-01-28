@@ -6,6 +6,8 @@
 
 ## --------------------------------------------------------------------------------------------------------
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=ascii-art-web)
+
 [![Sylex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=x33lyS)
 
 ## --------------------------------------------------------------------------------------------------------
