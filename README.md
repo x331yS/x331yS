@@ -8,7 +8,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=ascii-art-web&theme=maroongold)
 
-[![Sylex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=x33lyS&theme=maroongold)
+[![Sylex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=x33lyS)
 
 ## -----------------------------------------------------------------------------------------------------
 
