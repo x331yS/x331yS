@@ -1,4 +1,4 @@
-[![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&theme=maroongold)](#)
+![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&theme=maroongold)](#)
 
 ## -----------------------------------------------------------------------------------------------------
 
@@ -6,9 +6,9 @@
 
 ## -----------------------------------------------------------------------------------------------------
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=ascii-art-web&theme=maroongold)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=ascii-art-web&theme=maroongold)
 
-[![Sylex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=x33lyS)
+![Sylex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=x33lyS)
 
 ## -----------------------------------------------------------------------------------------------------
 
