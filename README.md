@@ -10,6 +10,8 @@
 
 ## -----------------------------------------------------------------------------------------------------
 
+![Sylex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=x33lyS)]
+
 ![Golang](https://img.shields.io/badge/-Golang-black?logo=go&style=for-the-badge)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)&nbsp;&nbsp;
