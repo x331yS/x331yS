@@ -12,6 +12,7 @@
 ## -----------------------------------------------------------------------------------------------------
 
 ![Golang](https://img.shields.io/badge/-Golang-black?logo=go&style=for-the-badge)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=go&style=for-the-badge)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=for-the-badge)&nbsp;&nbsp;
