@@ -6,9 +6,8 @@
 
 ## -----------------------------------------------------------------------------------------------------
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&theme=maroongold)
 <a href="https://groupie-tracker-x33lys.herokuapp.com/" target="_blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&theme=maroongold)</a>
-
+<a href="https://github.com/x33lyS/Ascii-art-web" target="_blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&theme=maroongold)</a>
 
 ## -----------------------------------------------------------------------------------------------------
 
