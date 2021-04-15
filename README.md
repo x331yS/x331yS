@@ -6,7 +6,7 @@
 
 ## -----------------------------------------------------------------------------------------------------
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&theme=maroongold)
+[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&theme=maroongold)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&theme=maroongold)
 
 ## -----------------------------------------------------------------------------------------------------
