@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=maroongold)
 
 ## -----------------------------------------------------------------------------------------------------
-[go](http://stackoverflow.com){:target="_blank"}.
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 <a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&theme=maroongold)</a>
 <a href="https://github.com/x33lyS/Ascii-art-web">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&theme=maroongold)</a>
 
