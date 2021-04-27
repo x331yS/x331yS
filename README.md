@@ -25,4 +25,4 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-white)
-[![FlyN-Nick's Stat Trophies](https://hacked-github-stat-trophies.vercel.app/?username=FlyN-Nick&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&&theme=onedark&no-bg=true&no-frame=true&title=MultipleLanguage,AllSuperRank,Commit,Stars,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![FlyN-Nick's Stat Trophies](https://hacked-github-stat-trophies.vercel.app/?username=FlyN-Nick&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark&no-bg=true&no-frame=true&title=MultipleLanguage,AllSuperRank,Commit,Stars,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
