@@ -8,7 +8,7 @@
 
 ## -----------------------------------------------------------------------------------------------------
 <a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0C00&border_radius=30)</a>
-<a href="https://github.com/x33lyS/WebDev">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0C00&border_radius=30)</a>
+<a href="https://github.com/x33lyS/WebDev">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=WebDev&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0C00&border_radius=30)</a>
 
 ## -----------------------------------------------------------------------------------------------------
 
