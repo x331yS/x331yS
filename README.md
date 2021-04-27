@@ -1,8 +1,8 @@
-[![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&bg_color=red&border_radius=30&hide=issues)](#)
+[![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&theme=dark&border_radius=30&hide=issues)](#)
 
 ## -----------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=dark&border_radius=30&hide_border)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=dark&border_radius=30)
 
 ## -----------------------------------------------------------------------------------------------------
 <a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&theme=dark&border_radius=30)</a>
