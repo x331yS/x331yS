@@ -21,7 +21,7 @@
 </br>
 
 
-[![x33lyS's Stat Trophies](<img src="https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=dracula&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories height="160")](https://github.com/x33lyS/github-profile-trophy)
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=dracula&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories height="160")](https://github.com/x33lyS/github-profile-trophy)  />
 
 ## -----------------------------------------------------------------------------------------------------
 
