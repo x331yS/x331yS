@@ -1,12 +1,12 @@
-[![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&theme=maroongold&hide=issues)](#)
+[![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&theme=dark&hide=issues)](#)
 
 ## -----------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=dark)
 
 ## -----------------------------------------------------------------------------------------------------
-<a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&theme=maroongold)</a>
-<a href="https://github.com/x33lyS/Ascii-art-web">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&theme=maroongold)</a>
+<a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&theme=dark)</a>
+<a href="https://github.com/x33lyS/Ascii-art-web">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&theme=dark)</a>
 
 ## -----------------------------------------------------------------------------------------------------
 
