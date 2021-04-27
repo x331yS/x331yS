@@ -2,11 +2,11 @@
 
 ## -----------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=dark&border_radius=30)
 
 ## -----------------------------------------------------------------------------------------------------
-<a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&theme=dark)</a>
-<a href="https://github.com/x33lyS/Ascii-art-web">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&theme=dark)</a>
+<a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&theme=dark&border_radius=30)</a>
+<a href="https://github.com/x33lyS/Ascii-art-web">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-art-web&theme=dark&border_radius=30)</a>
 
 ## -----------------------------------------------------------------------------------------------------
 
