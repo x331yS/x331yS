@@ -18,9 +18,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=for-the-badge)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
-
-
 </br>
+
+
 [![x33lyS's Stat Trophies](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=dracula&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories)](https://github.com/x33lyS/github-profile-trophy)
 
 ## -----------------------------------------------------------------------------------------------------
