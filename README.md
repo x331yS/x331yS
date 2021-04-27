@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
 
 <a href="https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark">
-  <img align="center" src="https://hacked-github-stat-trophies.vercel.app/?username=FlyN-Nick&column=4&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark&margin-w=18&margin-h=10"/>
+  <img align="center" src="https://hacked-github-stat-trophies.vercel.app/?username=FlyN-Nick&column=4&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark"/>
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
