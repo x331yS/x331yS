@@ -26,7 +26,7 @@
 
 ## -----------------------------------------------------------------------------------------------------
 
-[![FlyN-Nick's Stat Trophies](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true&no-frame=true&margin-w=18&margin-h=10&title=MultipleLanguage,AllSuperRank,Joined2020,Commit,Repositories)](https://github.com/x33lyS/github-profile-trophy)
+[![FlyN-Nick's Stat Trophies](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true&no-frame=true&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories)](https://github.com/x33lyS/github-profile-trophy)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
