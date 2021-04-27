@@ -1,4 +1,4 @@
-[![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&bg_color=000000&title_color=FFFFFF&border_radius=30&hide=issues)](#)
+[![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&border_radius=30&hide=issues)](#)
 
 ## -----------------------------------------------------------------------------------------------------
 
