@@ -19,7 +19,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
 
-<img src="https://github-profile-trophy.vercel.app/?username=x33lyS&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<a href="https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark&margin-w=18&margin-h=10">
+  <img align="center" src="https://hacked-github-stat-trophies.vercel.app/?username=FlyN-Nick&column=4&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark&margin-w=18&margin-h=10"/>
+</a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-white)
