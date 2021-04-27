@@ -19,8 +19,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
 
-<a href="https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark">
-  <img align="center" src="https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&column=5&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=AllSuperRank,MultiLanguage,Joined2020,Commit,Repositories&theme=onedark"/>
+<a href="https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
+  <img align="center" src="https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&no-bg=true&no-frame=true&column=5&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=AllSuperRank,MultiLanguage,Joined2020,Commit,Repositories"/>
 </a>
 
 
