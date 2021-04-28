@@ -30,4 +30,4 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-white)
