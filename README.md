@@ -27,10 +27,12 @@
 ![x33lyS's trophy](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=dracula&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories)
 
 ## -----------------------------------------------------------------------------------------------------
-![WakaTime](https://wakatime.com/share/@x33lyS/8a20f4a2-304d-49a2-8d19-5ddb985aef60.svg height=50% width=50%)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
 ![Codewars Badge](https://www.codewars.com/users/x33lyS/badges/large)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
+
+
+
+![WakaTime](https://wakatime.com/share/@x33lyS/8a20f4a2-304d-49a2-8d19-5ddb985aef60.svg)
