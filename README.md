@@ -29,6 +29,7 @@
 ## -----------------------------------------------------------------------------------------------------
 <figure><embed src="https://wakatime.com/share/@x33lyS/2e0723e8-6104-43f9-8e55-0e6e8a1f7bb5.svg"></embed></figure>
 
+![WakaTime](https://wakatime.com/share/@x33lyS/2e0723e8-6104-43f9-8e55-0e6e8a1f7bb5.svg)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
