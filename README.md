@@ -35,4 +35,4 @@
 
 
 
-![WakaTime](https://wakatime.com/share/@x33lyS/8a20f4a2-304d-49a2-8d19-5ddb985aef60.svg)
+![WakaTime](https://wakatime.com/badge/github/wakatime/wakatime.svg?branch=master)
