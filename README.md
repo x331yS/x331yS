@@ -35,4 +35,4 @@
 
 
 
-![WakaTime](https://wakatime.com/badge/github/x33lyS.svg)
+![WakaTime](https://wakatime.com/badge/github/x33lyS/forum.svg)
