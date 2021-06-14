@@ -27,9 +27,7 @@
 ![x33lyS's trophy](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=dracula&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories)
 
 ## -----------------------------------------------------------------------------------------------------
-<figure><embed src="https://wakatime.com/share/@x33lyS/2e0723e8-6104-43f9-8e55-0e6e8a1f7bb5.svg"></embed></figure>
-
-![WakaTime](https://wakatime.com/share/@x33lyS/2e0723e8-6104-43f9-8e55-0e6e8a1f7bb5.svg)
+![WakaTime](https://wakatime.com/share/@x33lyS/8a20f4a2-304d-49a2-8d19-5ddb985aef60.svg)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
