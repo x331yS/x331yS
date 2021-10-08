@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)&nbsp;&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=for-the-badge)&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/-C#-black?logo=c#&style=for-the-badge)&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/-C#-black?logo=c&style=for-the-badge)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=for-the-badge)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
