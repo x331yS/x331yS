@@ -14,11 +14,11 @@
 
 ![Golang](https://img.shields.io/badge/-Golang-black?logo=go&style=for-the-badge)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)&nbsp;&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=for-the-badge)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-black?logo=c&style=for-the-badge)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=for-the-badge)&nbsp;&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=for-the-badge)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=for-the-badge)&nbsp;&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-black?logo=MySQL&style=for-the-badge)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
