@@ -2,15 +2,15 @@
 
 [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0C00&border_radius=30&hide=issues)](#)
 
-## -----------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------------------------
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0C00&border_radius=30)
 
-## -----------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------------------------
 <a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-tracker&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0C00&border_radius=30)</a>
 <a href="https://github.com/x33lyS/WebDev">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=WebDev&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0C00&border_radius=30)</a>
 
-## -----------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------------------------
 
 ![Golang](https://img.shields.io/badge/-Golang-black?logo=go&style=for-the-badge)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 
 ![x33lyS's trophy](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=dracula&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories)
 
-## -----------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------------------------
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
 ![Codewars Badge](https://www.codewars.com/users/x33lyS/badges/large)
