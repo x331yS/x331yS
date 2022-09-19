@@ -61,24 +61,15 @@
 ## 📕 Top projects I've contributed to
 
 <p align="left">
-
- 
-   
    <a href="https://github.com/x33lyS/Challenge-JS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Challenge-JS&theme=tokyonight&hide_border=true&show_icons=false" alt="Challenge-JS"></a>
- 
-   
+    <a href="https://github.com/x33lyS/Challenge-GO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Challenge-GO&theme=tokyonight&hide_border=true&show_icons=false" alt="Challenge-GO"></a>
    <a href="https://github.com/x33lyS/Drona"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Drona&theme=tokyonight&hide_border=true&show_icons=false" alt="Drona"></a>
-  
-   
    <a href="https://github.com/x33lyS/Aris"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Aris&theme=tokyonight&hide_border=true&show_icons=false" alt="Aris"></a>
- 
-   
    <a href="https://github.com/x33lyS/Modificate-database-sql"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=Modificate-database-sql&theme=tokyonight&hide_border=true&show_icons=false" alt="Modificate-database-sql"></a>
- 
-   
    <a href="https://github.com/x33lyS/Tls-sql"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Tls-sql&theme=tokyonight&hide_border=true&show_icons=false" alt="Tls-sql"></a>
 </p>
 
+##
 
 ![Golang](https://img.shields.io/badge/-Golang-black?logo=go&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
