@@ -4,7 +4,7 @@
 
 ### 🙌 I'm Florian "x33lyS" Lejosne. I love building utilities aimed at increasing Developer productivity
 
-### 🚧 Currently working on ~~*PRIVATE PROJECT*~~
+### 🚧 Currently working on ~~***PRIVATE PROJECT***~~
 
 ### 📪 How to reach me:
 
