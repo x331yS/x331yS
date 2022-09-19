@@ -8,8 +8,8 @@
 
 ### 📪 How to reach me:
 
-[![Follow on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social&color=628fdb)](https://www.instagram.com/florian.ljsne/) 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&color=628fdb&logo=LinkedIn&style=social)](https://www.linkedin.com/in/florian-lejosne/)
+[![Follow on Instagram](https://img.shields.io/badge/-instagram?label=Instagram&logo=Instagram&style=social&color=628fdb)](https://www.instagram.com/florian.ljsne/) 
+[![Connect on LinkedIn](https://img.shields.io/badge/-linkedin?label=LinkedIn&color=628fdb&logo=LinkedIn&style=social)](https://www.linkedin.com/in/florian-lejosne/)
 
 ## 🎵 Currently vibing on
 
