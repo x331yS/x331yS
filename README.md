@@ -12,7 +12,7 @@
 
 ## ----------------------------------------------------------------------------------------------------
 
-![Golang](https://img.shields.io/badge/-Golang-black?logo=go&style=for-the-badge?logoColor=violet)&nbsp;&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-black?logo=go&style=for-the-badge?logoColor=blue)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge?logoColor=violet)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=for-the-badge?logoColor=violet)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-black?logo=c&style=for-the-badge?logoColor=violet)&nbsp;&nbsp;
