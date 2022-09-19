@@ -1,22 +1,15 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=32&duration=4000&pause=150&color=628FDB&center=true&vCenter=true&width=1000&lines=Hello+%2C+I'm+Florian;Web+Developer...)](http://florian.swebystudio.com/)
 
-  [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
+ 🖐 [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
   
- 🎵 Actually vibing on
+ 🎵 Currently vibing on
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=b41ed2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p align="center">currently jamming to</p>
-<p align="center">
-  <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
-  </a>
-</p>
   
 ## ----------------------------------------------------------------------------------------------------
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30)
+ 📚 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30)
 
 
 
