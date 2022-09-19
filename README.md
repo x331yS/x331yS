@@ -11,8 +11,6 @@
 [![Follow on Instagram](https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=628fdb&style=social)](https://www.instagram.com/florian.ljsne/) 
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-black?logo=LinkedIn&logoColor=628fdb&style=social)](https://www.linkedin.com/in/florian-lejosne/)
 
----
-
 ## 🎵 Currently vibing on
 
 <p align="center">
@@ -20,8 +18,6 @@
     <img title="🔥 Spotify" alt="x33lyS's stats" src="https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=628fdb&bar_color_cover=false"/>
   </a>
 </p>
-
----
 
 ## 📚 Statistics
  
