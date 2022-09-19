@@ -1,6 +1,6 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=32&duration=6000&pause=50&color=628FDB&center=true&vCenter=true&width=1000&lines=Hello+%2C+I'm+Florian;Web+Developer+.+.+.)](http://florian.swebystudio.com/)
    
- ## 👋 Hi there
+ ### 👋 Hi there
 
 I'm Florian "x33lyS" Lejosne. I love building utilities aimed at increasing Developer productivity :raised_hands: 
 
