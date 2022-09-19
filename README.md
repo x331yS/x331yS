@@ -71,9 +71,9 @@
 
 ## 📙 Language Used
 
-![Golang](https://img.shields.io/badge/-Golang?logo=go&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python?logo=python&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/-Angular?logo=angular&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-1a1b27?logo=go&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-1a1b27?logo=python&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-1a1b27?logo=angular&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-black?logo=c&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
