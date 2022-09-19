@@ -87,7 +87,7 @@
 
 
 
-![x33lyS's trophy](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=tokyonight&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories)
+![x33lyS's trophy](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=react-dark&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories)
 
 ## 📗 Personnal Stats
 
