@@ -1,12 +1,20 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=32&duration=6000&pause=50&color=628FDB&center=true&vCenter=true&width=1000&lines=Hello+%2C+I'm+Florian;Web+Developer+.+.+.)](http://florian.swebystudio.com/)
+   
+ ## 👋 Hi there
 
- [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
-  
+I'm Florian "x33lyS" Lejosne. I love building utilities aimed at increasing Developer productivity :raised_hands: 
+
 ## 🎵 Currently vibing on
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=628fdb&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
+
+## 👋 Hi there
+
+ [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
+  
+
 
  📚 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30)
 
