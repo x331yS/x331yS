@@ -4,7 +4,7 @@
   
  🎵 Currently vibing on
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=b41ed2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=628fdb&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   
 ## ----------------------------------------------------------------------------------------------------
