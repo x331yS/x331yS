@@ -74,15 +74,15 @@
 ![Golang](https://img.shields.io/badge/-Golang-1a1b27?logo=go&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-1a1b27?logo=python&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-1a1b27?logo=angular&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-black?logo=c&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-black?logo=MySQL&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-1a1b27?logo=c&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-1a1b27?logo=joplin&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-1a1b27?logo=javascript&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-1a1b27?logo=html5&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1a1b27?logo=css3&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-1a1b27?logo=bootstrap&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-1a1b27?logo=MySQL&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-1a1b27?logo=git&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-1a1b27?logo=github&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 </br>
 
 
