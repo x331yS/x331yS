@@ -8,7 +8,7 @@
 
 ### 📪 How to reach me:
 
-### [![Follow on Instagram](https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=628fdb&style=social)](https://www.instagram.com/florian.ljsne/) 
+[![Follow on Instagram](https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=628fdb&style=social)](https://www.instagram.com/florian.ljsne/) 
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-black?logo=LinkedIn&logoColor=628fdb&style=social)](https://www.linkedin.com/in/florian-lejosne/)
 
 ## 🎵 Currently vibing on
