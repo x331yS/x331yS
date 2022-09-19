@@ -87,10 +87,16 @@
 
 
 
-
 ![x33lyS's trophy](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=dracula&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories)
 
-## ----------------------------------------------------------------------------------------------------
+## 📗 Personnal Stats
+
+<p align="center">
+  <a href="https://github.com/x33lyS/github-readme-activity-graph&theme=react-dark">
+    <img title="🔥 Streak Github Stats" alt="x33lyS's graph" src="https://github.com/x33lyS/github-readme-activity-graph&theme=react-dark"/>
+  </a>
+</p>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
 ![Codewars Badge](https://www.codewars.com/users/x33lyS/badges/large)
