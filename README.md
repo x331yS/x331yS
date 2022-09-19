@@ -21,7 +21,7 @@
 
  [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30)
- ![GitHub Streak](https://streak-stats.demolab.com/?user=x33lyS)
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=x33lyS&theme=tokyonight)
 
 
 
