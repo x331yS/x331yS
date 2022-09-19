@@ -12,8 +12,8 @@
 
 ## ----------------------------------------------------------------------------------------------------
 
-![Golang](https://img.shields.io/badge/-Golang-black?logo=go&logoColor=violet&style=for-the-badge)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)&nbsp;&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-black?logo=go&logoColor=blue&style=for-the-badge)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=for-the-badge)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-black?logo=c&style=for-the-badge)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=for-the-badge)&nbsp;&nbsp;
