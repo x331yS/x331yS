@@ -69,11 +69,11 @@
    <a href="https://github.com/x33lyS/Tls-sql"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Tls-sql&theme=tokyonight&hide_border=true&show_icons=false" alt="Tls-sql"></a>
 </p>
 
-##
+## 📙 Language Used
 
-![Golang](https://img.shields.io/badge/-Golang-black?logo=go&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Golang](https://img.shields.io/badge/-Golang?logo=go&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python?logo=python&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular?logo=angular&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-black?logo=c&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
