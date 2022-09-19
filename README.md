@@ -5,6 +5,14 @@
  🎵 Actually vibing on
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=b41ed2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center">currently jamming to</p>
+<p align="center">
+  <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
+  </a>
+</p>
   
 ## ----------------------------------------------------------------------------------------------------
 
