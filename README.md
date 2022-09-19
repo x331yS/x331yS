@@ -2,7 +2,7 @@
    
  ### 👋 Hi there
 
-I'm Florian "x33lyS" Lejosne. I love building utilities aimed at increasing Developer productivity :raised_hands: 
+### I'm Florian "x33lyS" Lejosne. I love building utilities aimed at increasing Developer productivity :raised_hands: 
 
 ## 🎵 Currently vibing on
 
