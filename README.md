@@ -2,8 +2,6 @@
 
   [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30)
 
-## ----------------------------------------------------------------------------------------------------
-
 
 
 ## ----------------------------------------------------------------------------------------------------
@@ -34,5 +32,5 @@
 
 ![Codewars Badge](https://www.codewars.com/users/x33lyS/badges/large)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code&logoColor=darkblue)
 
