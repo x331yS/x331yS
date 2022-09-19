@@ -1,6 +1,4 @@
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=32&duration=4000&pause=50&color=628FDB&center=true&width=500&lines=Hello+%2C+I'm+Florian;Web+Developer...)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=32&duration=4000&pause=50&color=628FDB&center=true&width=500&lines=Hello+%2C+I'm+Florian;Web+Developer..." alt="Typing SVG" /></a>
 
   [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
   
