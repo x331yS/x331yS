@@ -2,9 +2,11 @@
 
 [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30)
+
 ## ----------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30)
+
 
 ## ----------------------------------------------------------------------------------------------------
 <a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-Tracker&theme=tokyonight&border_radius=30)</a>
