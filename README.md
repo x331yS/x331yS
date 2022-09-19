@@ -13,7 +13,11 @@
 
 ## 🎵 Currently vibing on
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=628fdb&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=628fdb&bar_color_cover=false">
+    <img title="🔥 Spotify" alt="x33lyS's stats" src="https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=628fdb&bar_color_cover=false"/>
+  </a>
+</p>
 
 ---
 
