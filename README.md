@@ -2,7 +2,7 @@
 
  [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
   
- 🎵 Currently vibing on
+## 🎵 Currently vibing on
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=628fdb&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
