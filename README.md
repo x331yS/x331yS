@@ -91,7 +91,7 @@
 
 ## 📗 Personnal Stats
 
-[![x33lyS's github activity graph](https://activity-graph.herokuapp.com/graph?username=x33lyStheme=react_dark)](https://github.com/x33lyS/github-readme-activity-graph&theme=react_dark)
+[![x33lyS's github activity graph](https://activity-graph.herokuapp.com/graph?username=x33lyStheme=react_dark)](https://github.com/x33lyS/github-readme-activity-graph)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
