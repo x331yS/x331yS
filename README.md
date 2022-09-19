@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=50&color=C60EF7&width=435&lines=Hello+%2C+I'm+Florian;Web+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=4000&pause=50&color=C60EF7&center=true&width=435&lines=Hello+%2C+I'm+Florian;Web+Developer...)](https://git.io/typing-svg)
 
 <div align="center"><h1><a href="http://florian.swebystudio.com" target="_blank" >- My website -</a></h1></div>
 
