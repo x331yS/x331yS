@@ -18,8 +18,6 @@
 ---
 
 ## 📚 Statistics
-
- ![Top Langs]()
  
  <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues">
