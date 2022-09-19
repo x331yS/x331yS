@@ -52,6 +52,16 @@
     <a href="https://github.com/x33lyS/Auto-git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Auto-git&theme=tokyonight&hide_border=true&show_icons=false" alt="Auto Git"></a>
   <a href="https://cook-time-x33lys.herokuapp.com/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=CookTime&theme=tokyonight&hide_border=true&show_icons=false" alt="CookTime"></a>
   <a href="https://github.com/x33lyS/Ascii-art-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-Art-Web&theme=tokyonight&hide_border=true&show_icons=false" alt="Ascii Art Web"></a>
+    <a href="http://florian-portfolio.swebystudio.com/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Website-2k21&theme=tokyonight&hide_border=true&show_icons=false" alt="Website 2k21"></a>
+   <a href="https://github.com/x33lyS/Schtroumpf-Social"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Schtroumpf-Social&theme=tokyonight&hide_border=true&show_icons=false" alt="Schtroumpf Social"></a>
+  <a href="https://github.com/x33lyS/Crawler-JS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=Crawler-JS&theme=tokyonight&hide_border=true&show_icons=false" alt="Crawler"></a>
+  <a href="https://github.com/x33lyS/VPN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=VPN&theme=tokyonight&hide_border=true&show_icons=false" alt="VPN"></a>
+   <a href="https://github.com/x33lyS/Code-Training"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Code-Training&theme=tokyonight&hide_border=true&show_icons=false" alt="Code-Training"></a>
+   
+   
+    <a href="https://github.com/x33lyS/Auto-git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Auto-git&theme=tokyonight&hide_border=true&show_icons=false" alt="Auto Git"></a>
+  <a href="https://cook-time-x33lys.herokuapp.com/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=CookTime&theme=tokyonight&hide_border=true&show_icons=false" alt="CookTime"></a>
+  <a href="https://github.com/x33lyS/Ascii-art-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-Art-Web&theme=tokyonight&hide_border=true&show_icons=false" alt="Ascii Art Web"></a>
 </p>
 
 ## ----------------------------------------------------------------------------------------------------
