@@ -10,18 +10,18 @@
 
 ## ----------------------------------------------------------------------------------------------------
 
-![Golang](https://img.shields.io/badge/-Golang-black?logo=go&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-black?logo=c&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-black?logo=MySQL&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=darkblue&style=for-the-badge)&nbsp;&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-black?logo=go&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-black?logo=c&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-black?logo=MySQL&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
 </br>
 
 
@@ -32,5 +32,5 @@
 
 ![Codewars Badge](https://www.codewars.com/users/x33lyS/badges/large)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-darkblue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blueviolet)
 
