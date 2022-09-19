@@ -1,8 +1,14 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=32&duration=6000&pause=50&color=628FDB&center=true&vCenter=true&width=1000&lines=Hello+%2C+I'm+Florian;Web+Developer+.+.+.)](http://florian.swebystudio.com/)
    
- ### 👋 Hi there
+## 👋 Hi there
 
-### I'm Florian "x33lyS" Lejosne. I love building utilities aimed at increasing Developer productivity :raised_hands: 
+### 🙌 I'm Florian "x33lyS" Lejosne. I love building utilities aimed at increasing Developer productivity
+
+### 🚧 Currently working on *PRIVATE PROJECT*
+
+### 📪 How to reach me:
+
+[![Follow on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/florian.ljsne/) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/florian-lejosne/)
 
 ## 🎵 Currently vibing on
 
@@ -10,7 +16,7 @@
 
 ---
 
-## 👋 Hi there
+## 👋 Statistics
 
  [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
   
