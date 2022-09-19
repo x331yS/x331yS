@@ -1,6 +1,10 @@
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=32&duration=4000&pause=150&color=628FDB&center=true&vCenter=true&width=1000&lines=Hello+%2C+I'm+Florian;Web+Developer...)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=32&duration=4000&pause=150&color=628FDB&center=true&vCenter=true&width=1000&lines=Hello+%2C+I'm+Florian;Web+Developer...)](http://florian.swebystudio.com/)
 
   [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
+  
+  Actually vibing on
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=b41ed2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
 ## ----------------------------------------------------------------------------------------------------
 
@@ -28,9 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
 </br>
 
-Actually vibing on
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=b41ed2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ![x33lyS's trophy](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=dracula&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories)
