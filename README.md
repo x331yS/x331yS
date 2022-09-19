@@ -4,7 +4,7 @@
 
 ## ----------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0C00&border_radius=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=radical&border_radius=30)
 
 ## ----------------------------------------------------------------------------------------------------
 <a href="https://groupie-tracker-x33lys.herokuapp.com/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-Tracker&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0C00&border_radius=30)</a>
