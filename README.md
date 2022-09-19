@@ -19,12 +19,17 @@
 
 ## 📚 Statistics
 
- [![Sylex's statistics](https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues)](#)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30)
+ ![Top Langs]()
  
  <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues">
     <img title="🔥 Github Stats" alt="x33lyS's stats" src="https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30">
+    <img title="🔥 Langages Github Stats" alt="x33lyS's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x33lyS&hide=TeX&layout=compact&theme=tokyonight&border_radius=30"/>
   </a>
 </p>
  
