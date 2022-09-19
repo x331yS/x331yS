@@ -8,8 +8,8 @@
 
 ### 📪 How to reach me:
 
-[![Follow on Instagram](https://img.shields.io/badge/-instagram-black?logo=Instagram&logoColor=blueviolet&style=social)](https://www.instagram.com/florian.ljsne/) 
-[![Connect on LinkedIn](https://img.shields.io/badge/-linkedin-black?logo=LinkedIn&logoColor=blueviolet&style=social)](https://www.linkedin.com/in/florian-lejosne/)
+[![Follow on Instagram](https://img.shields.io/badge/-instagram-black?logo=Instagram&logoColor=628fdb&style=social)](https://www.instagram.com/florian.ljsne/) 
+[![Connect on LinkedIn](https://img.shields.io/badge/-linkedin-black?logo=LinkedIn&logoColor=628fdb&style=social)](https://www.linkedin.com/in/florian-lejosne/)
 
 ## 🎵 Currently vibing on
 
@@ -33,18 +33,18 @@
 
 ## ----------------------------------------------------------------------------------------------------
 
-![Golang](https://img.shields.io/badge/-Golang-black?logo=go&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-black?logo=c&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-black?logo=MySQL&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=blueviolet&style=for-the-badge)&nbsp;&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-black?logo=go&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-black?logo=c&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-black?logo=MySQL&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=628fdb&style=for-the-badge)&nbsp;&nbsp;
 </br>
 
 
