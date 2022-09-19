@@ -91,14 +91,7 @@
 
 ## 📗 Personnal Stats
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  
-  <a href=" https://activity-graph.herokuapp.com/graph?x33lyS/github-readme-activity-graph&theme=react-dark">
-    <img title="🔥 Streak Github Stats" alt="x33lyS's graph" src=" https://activity-graph.herokuapp.com/graph?x33lyS/github-readme-activity-graph&theme=react-dark"/>
-  </a>
-</p>
+[![x33lyS's github activity graph](https://activity-graph.herokuapp.com/graph?username=x33lyS&theme=dracula)](https://github.com/x33lyS/github-readme-activity-graph)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
