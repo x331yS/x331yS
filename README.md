@@ -61,7 +61,7 @@
 ## 📕 Top projects I've contributed to
 
 <p align="left">
-   <a href="https://github.com/x33lyS/github-readme-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=github-readme-stats&theme=tokyonight&hide_border=true&show_icons=false" alt="README STATS"></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&hide_border=true&show_icons=false" alt="README STATS"></a>
     <a href="https://github.com/x33lyS/Challenge-GO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Challenge-GO&theme=tokyonight&hide_border=true&show_icons=false" alt="Challenge-GO"></a>
    <a href="https://github.com/x33lyS/Drona"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Drona&theme=tokyonight&hide_border=true&show_icons=false" alt="Drona"></a>
    <a href="https://github.com/x33lyS/Aris"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Aris&theme=tokyonight&hide_border=true&show_icons=false" alt="Aris"></a>
