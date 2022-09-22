@@ -92,7 +92,7 @@
 
 ## 📗 Personnal Stats
 
-[![x33lyS's github activity graph]()](https://github.com/x33lyS/github-readme-activity-graph&theme=react_dark)
+![x33lyS's github activity graph](https://activity-graph.herokuapp.com/graph?username=x33lyS&theme=react-dark)
 
 <!--START_SECTION:activity-->
 
