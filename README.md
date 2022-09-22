@@ -93,6 +93,8 @@
 
 [![x33lyS's github activity graph](https://activity-graph.herokuapp.com/graph?username=x33lyS&theme=react-dark)](https://github.com/x33lyS/github-readme-activity-graph&theme=react_dark)
 
+<!--START_SECTION:activity-->
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
 ![Codewars Badge](https://www.codewars.com/users/x33lyS/badges/large)
