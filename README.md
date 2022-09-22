@@ -95,6 +95,8 @@
 ![x33lyS's github activity graph](https://activity-graph.herokuapp.com/graph?username=x33lyS&theme=react-dark)
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#61](https://github.com/Naereen/badges/pull/61) in [Naereen/badges](https://github.com/Naereen/badges)
+<!--END_SECTION:activity-->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
