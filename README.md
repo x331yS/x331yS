@@ -90,13 +90,15 @@
 
 ![x33lyS's trophy](https://hacked-github-stat-trophies.vercel.app/?username=x33lyS&theme=dracula&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Joined2020,Commit,Repositories,LongTimeUser,Organizations)
 
-## 📗 Personnal Stats
-
-![x33lyS's github activity graph](https://activity-graph.herokuapp.com/graph?username=x33lyS&theme=react-dark)
+## ⚡ Last Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#61](https://github.com/Naereen/badges/pull/61) in [Naereen/badges](https://github.com/Naereen/badges)
 <!--END_SECTION:activity-->
+
+## 📗 Personnal Stats
+
+![x33lyS's github activity graph](https://activity-graph.herokuapp.com/graph?username=x33lyS&theme=react-dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=x33lyS.x33lyS)
 
