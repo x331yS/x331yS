@@ -64,10 +64,6 @@
    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&hide_border=true&show_icons=false" alt="README STATS"></a>
     <a href="https://github.com/Naereen/badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Naereen&repo=badges&theme=tokyonight&hide_border=true&show_icons=false" alt="Badges"></a>
    <a href="https://github.com/inancgumus/learngo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=inancgumus&repo=learngo&theme=tokyonight&hide_border=true&show_icons=false" alt="Learn Go"></a>
-   <a href="https://github.com/x33lyS/Aris"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Aris&theme=tokyonight&hide_border=true&show_icons=false" alt="Aris"></a>
-   <a href="https://github.com/x33lyS/Modificate-database-sql"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=Modificate-database-sql&theme=tokyonight&hide_border=true&show_icons=false" alt="Modificate-database-sql"></a>
-   <a href="https://github.com/x33lyS/Tls-sql"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Tls-sql&theme=tokyonight&hide_border=true&show_icons=false" alt="Tls-sql"></a>
-</p>
 
 ## 📙 Language Used
 
