@@ -89,7 +89,7 @@
 ## ⚡ Last Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/Naereen/badges/pull/61) in [Naereen/badges](https://github.com/Naereen/badges)
+1. Opened PR [#61](https://github.com/Naereen/badges/pull/61) in [Naereen/badges](https://github.com/Naereen/badges)
 <!--END_SECTION:activity-->
 
 ## 📗 Personnal Stats
