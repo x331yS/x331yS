@@ -53,7 +53,7 @@
   <a href="https://github.com/x33lyS/Wordpress-Notify-Plugin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=Wordpress-Notify-Plugin&theme=tokyonight&hide_border=true&show_icons=false" alt="Wordpress-Notify-Plugin"></a>
   <a href="https://github.com/x33lyS/Ascii-art-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-Art-Web&theme=tokyonight&hide_border=true&show_icons=false" alt="Ascii Art Web"></a>
     <a href="http://florian-portfolio.swebystudio.com/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Website-2k21&theme=tokyonight&hide_border=true&show_icons=false" alt="Website 2k21"></a>
-   <a href="https://github.com/x33lyS/Schtroumpf-Social"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Schtroumpf-Social&theme=tokyonight&hide_border=true&show_icons=false" alt="Schtroumpf Social"></a>
+   <a href="https://github.com/x33lyS/Aris"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Aris&theme=tokyonight&hide_border=true&show_icons=false" alt="Aris"></a>
   <a href="https://github.com/x33lyS/Forum"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=Forum&theme=tokyonight&hide_border=true&show_icons=false" alt="Forum"></a>
   <a href="https://github.com/x33lyS/VPN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=VPN&theme=tokyonight&hide_border=true&show_icons=false" alt="VPN"></a>
 </p>
