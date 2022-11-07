@@ -22,7 +22,7 @@
 ## 📚 Statistics
  
  <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues">
+  <a href="https://github-readme-stats.vercel.app/api?username=x33lyS&show_icons=true&theme=tokyonight&border_radius=30&hide=issues">
     <img title="🔥 Github Stats" alt="x33lyS's stats" src="https://github-readme-stats.vercel.app/api?username=x33lyS&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=30&hide=issues"/>
   </a>
 </p>
