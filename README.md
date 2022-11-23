@@ -4,7 +4,7 @@
 
 ### 🙌 I'm Florian "x33lyS" Lejosne. I love building utilities aimed at increasing Developer productivity
 
-### 🚧 Currently working on ***Learn Go Project***
+### 🚧 Currently working on ***Time To Do Project***
 
 ### 📪 How to reach me:
 
