@@ -89,7 +89,7 @@
 ## ⚡ Last Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/Naereen/badges/pull/61) in [Naereen/badges](https://github.com/Naereen/badges)
+1. 🗣 Commented on [#1](https://github.com/x33lyS/DevOps/issues/1) in [x33lyS/DevOps](https://github.com/x33lyS/DevOps)
 <!--END_SECTION:activity-->
 
 ## 📗 Personnal Stats
