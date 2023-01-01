@@ -89,7 +89,7 @@
 ## ⚡ Last Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/x33lyS/DevOps/issues/1) in [x33lyS/DevOps](https://github.com/x33lyS/DevOps)
+1. 🎉 Merged PR [#2](https://github.com/x33lyS/DevOps/pull/2) in [x33lyS/DevOps](https://github.com/x33lyS/DevOps)
 <!--END_SECTION:activity-->
 
 ## 📗 Personnal Stats
