@@ -89,7 +89,7 @@
 ## ⚡ Last Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/x33lyS/DevOps/pull/2) in [x33lyS/DevOps](https://github.com/x33lyS/DevOps)
+1. 🎉 Merged PR [#2](https://github.com/Adam31-jpg/github-actions/pull/2) in [Adam31-jpg/github-actions](https://github.com/Adam31-jpg/github-actions)
 <!--END_SECTION:activity-->
 
 ## 📗 Personnal Stats
