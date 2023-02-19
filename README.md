@@ -46,16 +46,13 @@
 <p align="left">
       <a href="https://github.com/x33lyS/Izanami"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Izanami&theme=tokyonight&hide_border=true&show_icons=false" alt="Izanami"></a>
    <a href="http://florian.swebystudio.com/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Website-2k22&theme=tokyonight&hide_border=true&show_icons=false" alt="Website 2k22"></a>
-  <a href="https://github.com/x33lyS/x33lyS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=x33lyS&theme=tokyonight&hide_border=true&show_icons=false" alt="Readme"></a>
   <a href="https://github.com/x33lyS/Commits"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Commits&theme=tokyonight&hide_border=true&show_icons=false" alt="Commits"></a>
    <a href="https://groupie-tracker-x33lys.herokuapp.com/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Groupie-Tracker&theme=tokyonight&hide_border=true&show_icons=false" alt="Groupie Tracker"></a>
     <a href="https://github.com/x33lyS/Auto-git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Auto-git&theme=tokyonight&hide_border=true&show_icons=false" alt="Auto Git"></a>
   <a href="https://github.com/x33lyS/Wordpress-Notify-Plugin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=Wordpress-Notify-Plugin&theme=tokyonight&hide_border=true&show_icons=false" alt="Wordpress-Notify-Plugin"></a>
   <a href="https://github.com/x33lyS/Ascii-art-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Ascii-Art-Web&theme=tokyonight&hide_border=true&show_icons=false" alt="Ascii Art Web"></a>
-    <a href="http://florian-portfolio.swebystudio.com/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Website-2k21&theme=tokyonight&hide_border=true&show_icons=false" alt="Website 2k21"></a>
    <a href="https://github.com/x33lyS/Aris"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=Aris&theme=tokyonight&hide_border=true&show_icons=false" alt="Aris"></a>
   <a href="https://github.com/x33lyS/Forum"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=x33lyS&repo=Forum&theme=tokyonight&hide_border=true&show_icons=false" alt="Forum"></a>
-  <a href="https://github.com/x33lyS/VPN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=x33lyS&repo=VPN&theme=tokyonight&hide_border=true&show_icons=false" alt="VPN"></a>
 </p>
 
 ## 📕 Top projects I've contributed to
