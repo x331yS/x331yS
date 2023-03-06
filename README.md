@@ -86,7 +86,7 @@
 ## ⚡ Last Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/x33lyS/DevOps/pull/2) in [x33lyS/DevOps](https://github.com/x33lyS/DevOps)
+1. 🎉 Merged PR [#54](https://github.com/x33lyS/VaBucher/pull/54) in [x33lyS/VaBucher](https://github.com/x33lyS/VaBucher)
 <!--END_SECTION:activity-->
 
 ## 📗 Personnal Stats
