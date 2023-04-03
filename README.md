@@ -86,7 +86,7 @@
 ## ⚡ Last Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/x33lyS/VaBucher/pull/66) in [x33lyS/VaBucher](https://github.com/x33lyS/VaBucher)
+1. 🎉 Merged PR [#73](https://github.com/x33lyS/VaBucher/pull/73) in [x33lyS/VaBucher](https://github.com/x33lyS/VaBucher)
 <!--END_SECTION:activity-->
 
 ## 📗 Personnal Stats
