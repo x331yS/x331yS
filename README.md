@@ -14,8 +14,8 @@
 ## 🎵 Currently vibing on
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=628fdb&bar_color_cover=false">
-    <img title="🔥 Spotify" alt="x331yS's stats" src="https://spotify-github-profile.kittinanx.app/api/view?uid=florian.lejosne.31&cover_image=false&theme=default&bar_color=628fdb&bar_color_cover=false"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=florian.lejosne.31&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true">
+    <img title="🔥 Spotify" alt="x331yS's stats" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=florian.lejosne.31&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"/>
   </a>
 </p>
 
