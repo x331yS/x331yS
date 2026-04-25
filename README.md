@@ -4,7 +4,7 @@
 
 ### 🙌 I'm Florian "x331yS" Lejosne. I love building utilities aimed at increasing Developer productivity
 
-### 🚧 Currently working on ***ProbabilityX***
+### 🚧 Currently working on ***ProbaX-AI***
 
 ### 📪 How to reach me:
 
